@@ -1,0 +1,43 @@
+.main{
+		
+}
+.a { 
+
+border:1px solid grey;
+
+height:100px;
+
+width:800px;
+
+margin-left:270px;
+
+margin-top:180px;
+background-color:violet;
+color:white;
+
+}
+
+.b {
+	word-spacing:8px;
+	color:white;
+    margin-left:510px;
+margin-top:-70px;	
+
+	}
+
+
+.c {
+	word-spacing:7x;
+	color:white;
+	
+}
+
+.searchTerm {
+	width:200px;
+	height:30px;
+	margin-left:300px;
+	margin-top:-60px;
+	
+}
+
+	
